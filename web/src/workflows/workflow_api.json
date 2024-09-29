@@ -11,7 +11,7 @@
   "12": {
     "inputs": {
       "seed": 655172649754448,
-      "steps": 30,
+      "steps": 10,
       "cfg": 7.65,
       "sampler_name": "euler_ancestral_cfg_pp",
       "scheduler": "karras",
